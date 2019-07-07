@@ -1,2 +1,3 @@
-Secret.js
-Log*
+secret.js
+log*
+.txt
